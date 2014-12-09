@@ -2,7 +2,9 @@
   font-family: "Roboto Slab";
 }
 body {
-  background-image: url("http://www.homeschannel.net/images/105518-grey-abstract.png");
+  background-image: url("http://etc.usf.edu/clippix/pix/light-grey-and-white-wrinkled-texture_medium.jpg");
+  background-position: fixed;
+  background-size: 100%;
   color: white;
 }
 ul.navbar {
