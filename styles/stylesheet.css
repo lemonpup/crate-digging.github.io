@@ -1,0 +1,53 @@
+* {
+  font-family: "Roboto Slab";
+}
+body {
+  background-image: url("http://www.psdgraphics.com/file/blue-abstract-background.jpg");
+  color: white;
+}
+ul.navbar {
+  width: 100%;
+  background-color: #0193ef;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+ul.navbar li {
+  list-style-type: none;
+  display: inline;
+  padding: 10px;
+  height: 20px;
+}
+ul.navbar a {
+  text-decoration: none;
+  color: white;
+}
+ul.navbar a:hover {
+  color: #466c86;
+}
+#whatis {
+  opacity: 0.6;
+  background-color: #000;
+  float: left;
+  max-width: 28%;
+}
+#whatis h4 {
+	margin-left: 20px;
+}
+#whatis p {
+	padding: 20px;
+}
+#whatis button {
+	border: 3px solid white;
+	background-color: #000;
+	color: white;
+	text-transform: uppercase;
+	float: right;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#whatis button:hover {
+	color: #0193ef;
+	border-color: #0193ef;
+}
