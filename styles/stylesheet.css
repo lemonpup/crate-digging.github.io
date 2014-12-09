@@ -2,12 +2,12 @@
   font-family: "Roboto Slab";
 }
 body {
-  background-image: url("http://www.psdgraphics.com/file/blue-abstract-background.jpg");
+  background-image: url("http://www.homeschannel.net/images/105518-grey-abstract.png");
   color: white;
 }
 ul.navbar {
   width: 100%;
-  background-color: #0193ef;
+  background-color: #D6D6D6;
   padding-top: 20px;
   padding-bottom: 20px;
   margin-left: 3px;
@@ -21,10 +21,11 @@ ul.navbar li {
 }
 ul.navbar a {
   text-decoration: none;
-  color: white;
+  color: #666666;
 }
 ul.navbar a:hover {
-  color: #466c86;
+  color: #333333;
+  box-shadow: #A3A3A3;
 }
 #whatis {
   opacity: 0.6;
